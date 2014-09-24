@@ -1,6 +1,6 @@
 News plugin for Elgg 1.8
-Latest Version: 1.8.1
-Released: 2014-06-21
+Latest Version: 1.8.2
+Released: 2014-09-24
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright: (c) iionly
@@ -20,6 +20,10 @@ Installation:
 
 
 Changelog:
+
+1.8.2:
+
+- Group pages of public groups showing up without error again if visitor is not logged in and news widget is included in page (either with or without Widget Manager plugin used).
 
 1.8.1:
 
